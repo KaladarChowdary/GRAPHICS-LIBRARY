@@ -1,17 +1,24 @@
 {
-  "name": "VizLib",
+  "name": "vizlib",
   "version": "1.0.0",
-  "description": "VizLib: A JavaScript library for canvas-based graphics and geometry functions.",
+  "description": "A graphics and visualization JavaScript library for canvas-based graphics and geometry functions.",
   "main": "index.js",
   "scripts": {
-    "test": "tester"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KaladarChowdary/kaladar.git"
   },
+  "keywords": [
+    "graphics",
+    "visualization",
+    "canvas",
+    "geometry",
+    "library"
+  ],
   "author": "kaladar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KaladarChowdary/kaladar/issues"
   },
