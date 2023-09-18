@@ -1,7 +1,7 @@
 {
-  "name": "kaladar",
-  "version": "1.0.1",
-  "description": "Math Functions For Graphics",
+  "name": "VizLib",
+  "version": "1.0.0",
+  "description": "VizLib: A JavaScript library for canvas-based graphics and geometry functions.",
   "main": "index.js",
   "scripts": {
     "test": "tester"
